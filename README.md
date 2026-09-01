@@ -1,3 +1,10 @@
-# bmi_calculator
+# Bmi calculator made with flutter
+## showcase of the app
 
-A new Flutter project.
+##### phone
+![Alt Text](./assets/bmi_calc_phone.gif)
+
+
+
+##### desktop
+![Alt Text](./assets/bmi_calc_desktop.gif)
